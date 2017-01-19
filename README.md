@@ -1,6 +1,5 @@
 === BuddyPress Extend Fields ===
-Contributors: https://profiles.wordpress.org/serggordienko
-Donate link: http://example.com/
+Contributors: serggordienko
 Tags: buddypress, groups, fields
 Requires at least: BuddyPress 2.0
 Tested up to: BuddyPress 2.7.4
