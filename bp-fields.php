@@ -6,6 +6,7 @@
 	 */
 	/*
 	Plugin Name: BP Extend Groups Fields
+    Plugin URI: https://github.com/sergordienko/buddypress-extend-fields
 	Description: Custom fields for buddypres groups.
 	Author: Sergey Gordienko
 	Version: 1.0
