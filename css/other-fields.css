@@ -1,0 +1,51 @@
+.groups #buddypress ul.button-nav {
+    border-bottom: 1px solid #eaeaea;
+    margin-left: 0;
+}
+
+#buddypress ul.button-nav {
+    margin-top: 15px;
+}
+
+.groups #buddypress .button-nav:after, .groups #buddypress .button-nav:before {
+    content: " ";
+    display: table;
+}
+
+.groups #buddypress .button-nav:after {
+    clear: both;
+}
+
+.groups #buddypress ul.button-nav li.current {
+    border: 1px solid #eaeaea;
+    border-bottom-color: #fff;
+    margin-bottom: -1px;
+}
+
+.groups #buddypress ul.button-nav li {
+    float: left !important;
+    margin-bottom: 0;
+}
+
+#buddypress ul.button-nav li {
+    float: left;
+    margin: 0 10px 10px 0;
+    list-style: none;
+}
+
+.groups #buddypress ul.button-nav a,
+.groups #buddypress ul.button-nav a:hover {
+    background: 0 0;
+    border: 0;
+    font-size: 18px;
+    font-size: 1.125rem;
+}
+
+#buddypress ul.button-nav li.current a
+{
+	background: 0 0 !important;
+    border: 0 !important;
+	color: #555;
+	outline: 0;
+	text-decoration: none
+}
