@@ -904,7 +904,7 @@ if( !class_exists( 'Bp_Extended_Group_Fields' ) ) :
     }
 
     /**
-     * Handle the display of a group's admin/edit-details page.
+     * Handle the display of a group's admin/other-fields page.
      *
      * @since 1.0.0
      */
